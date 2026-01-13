@@ -7,7 +7,7 @@
 <ul>
   <li>Some of my favourite projects I've ever worked on include creating a fully functional website as a team</li>
   <li>I love to learn new programming languages. So far I've worked with Python, C++, C#, HTML, CSS, SQL and PHP </li>
-  <li>Reach me here: <a href="www.linkedin.com/in/steven-diu-155b6733a">Linkedin Profile</a> </li>
+  <li>Reach me here: <a href="https://www.linkedin.com/in/steven-diu-155b6733a">Linkedin Profile</a> </li>
 </ul>
 
 
